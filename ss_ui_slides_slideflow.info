@@ -1,0 +1,6 @@
+; $Id$
+name = UI SlideFlow
+description = Integrate the UI.Slideflow slideshow library.
+package = Views
+core = 6.x
+
